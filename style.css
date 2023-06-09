@@ -1,0 +1,22 @@
+
+body
+{
+    background-color: skyblue;
+    color: white;
+}
+
+#camera, #result
+{
+    width: 335px;
+    height: 300px;
+}
+
+#capture_image
+{
+    height: 335px;
+    width: 300px;
+    border: 5px ridge gainsboro;
+}
+
+
+
